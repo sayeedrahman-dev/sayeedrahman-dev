@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sayeed Rahman
 
-<!--
-**sayeedrahman-dev/sayeedrahman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Native Android Developer from Bangladesh.
 
-Here are some ideas to get you started:
+## About Me
+- Learning Kotlin
+- Building Android projects
+- Improving problem solving and Git workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Kotlin
+- Android Studio
+- XML
+- Git & GitHub
+- java
+- it support level 3
+  
+
+## Current Goal
+To become a strong Native Android Developer by building real-world projects.
+
+## Connect
+- LinkedIn: your-link-https://www.linkedin.com/in/md-sayeed-rahman-9865763b6/
