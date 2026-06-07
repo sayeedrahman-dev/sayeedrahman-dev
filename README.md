@@ -13,7 +13,6 @@ Aspiring Native Android Developer from Bangladesh.
 - XML
 - Git & GitHub
 - java
-- it support level 3
   
 
 ## Current Goal
